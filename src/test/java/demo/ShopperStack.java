@@ -1,4 +1,4 @@
-package demo;
+qwl/.ipackage demo;
 
 import org.testng.annotations.Test;
 
